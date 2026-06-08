@@ -18,3 +18,6 @@ Zmienne procesowe (Parametric Sweeps)
  phi: 0.5, 0.6, 0.7, 0.8, 0.9, 1.0
 
 Wilgotnosc powietrza dolotowego (Y_H2O): Zakres od 0% do 6% co 0.5%
+
+main.py - kod źródłowy
+MKWS.pdf - sprawozdanie
